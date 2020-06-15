@@ -1,4 +1,4 @@
-# Bleichenbachen-Attack
+# Bleichenbacher-Attack
 Bleichenbacher Attack is based on the vulnerability associated with PKCS#1 v1.5
 padding scheme of RSA. It was demonstrated by Daniel Bleichenbacher in 1998.
 Bleichenbacher Attack is also called as Padding Orcale Attack or Adaptive Chosen
